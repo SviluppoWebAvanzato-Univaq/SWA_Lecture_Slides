@@ -1,5 +1,5 @@
-*.pdf
 *.zip
 *.ppt
+*.bak
 old/
 sync.ffs_db

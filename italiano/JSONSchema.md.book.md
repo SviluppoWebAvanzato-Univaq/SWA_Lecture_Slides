@@ -556,7 +556,7 @@ Uno schema di tipo `array` valida ogni array JSON. Per definire con più dettagl
 
 ```json
 {
- "type": string, 
+ "type": "string", 
  "enum": ["red", "amber", "green"]  
 }
 

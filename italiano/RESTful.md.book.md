@@ -24,7 +24,8 @@ Università degli Studi di L'Aquila
 giuseppe.dellapenna@univaq.it    
 http://people.disim.univaq.it/dellapenna
 
-> *Questo documento si basa sulle slide del corso di Web Engineering, riorganizzate per una migliore esperienza di lettura. Non è un libro di testo completo o un manuale tecnico, e deve essere utilizzato insieme a tutti gli altri materiali didattici del corso. Si prega di segnalare eventuali errori o omissioni all'autore.*
+> *Questo documento si basa sulle slide del corso di Sviluppo Web Avanzato, riorganizzate per migliorare l'esperienza di lettura. Non è un libro di testo completo o un manuale tecnico, e deve essere utilizzato insieme a tutti gli altri materiali didattici del corso. Si prega di segnalare eventuali errori o omissioni all'autore.*
+
 
 > Quest'opera è rilasciata con licenza CC BY-NC-SA 4.0. Per visualizzare una copia di questa licenza, visitate il sito https://creativecommons.org/licenses/by-nc-sa/4.0
 
@@ -689,7 +690,7 @@ Tramite gli header specificati da CORS, il server può comunicare al browser se 
 
 In generale, un servizio web RESTful dovrebbe inserire i seguenti header in *tutte* le sue risposte:   
 
-```http
+```
 Access-Control-Allow-Origin "*"   
 Access-Control-Allow-Headers "origin, x-requested-with, content-type"   
 Access-Control-Allow-Methods "PUT, GET, POST, DELETE, OPTIONS"

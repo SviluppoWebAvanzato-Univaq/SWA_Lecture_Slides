@@ -24,7 +24,7 @@ Università degli Studi di L'Aquila
 giuseppe.dellapenna@univaq.it  
 http://people.disim.univaq.it/dellapenna
 
-> *Questo documento si basa sulle slide del corso di Web Engineering, riorganizzate per una migliore esperienza di lettura. Non è un libro di testo completo o un manuale tecnico, e deve essere utilizzato insieme a tutti gli altri materiali didattici del corso. Si prega di segnalare eventuali errori o omissioni all'autore.*
+> *Questo documento si basa sulle slide del corso di Sviluppo Web Avanzato, riorganizzate per migliorare l'esperienza di lettura. Non è un libro di testo completo o un manuale tecnico, e deve essere utilizzato insieme a tutti gli altri materiali didattici del corso. Si prega di segnalare eventuali errori o omissioni all'autore.*
 
 > Quest'opera è rilasciata con licenza CC BY-NC-SA 4.0. Per visualizzare una copia di questa licenza, visitate il sito https://creativecommons.org/licenses/by-nc-sa/4.0
 
@@ -86,7 +86,7 @@ C'è molta confusione, infatti, su cosa siano e cosa possano effettivamente fare
 
 
 
-![figura](WSRest1.png)
+![figura](img/WSRest1.png)
 
  
 
@@ -115,7 +115,7 @@ Fornire documentazione e modulistica è senz'altro un servizio, e trova sul web 
 
 
 
-![figura](WSRest2.png)
+![figura](img/WSRest2.png)
 
  
 
@@ -149,7 +149,7 @@ In questo caso il concetto di servizio offerto via web è completo, ma non si tr
 
 
 
-![figura](WSRest3.png)
+![figura](img/WSRest3.png)
 
  
 
@@ -202,7 +202,7 @@ I servizi web sono nati prima della definizione di Web 2.0, ma ora ne sono parte
 
 
 
-![figura](WSRest4.png)
+![figura](img/WSRest4.png)
 
  
 
@@ -231,7 +231,7 @@ Tutto, quindi all'insegna dell'integrazione tra sistemi informativi differenti e
 
 
 
-![figura](WSRest5.png)
+![figura](img/WSRest5.png)
 
  
 
@@ -262,7 +262,7 @@ Il servizio si espone tramite standard unificati: **REST**, SOAP, ecc…
 
 
 
-![figura](WSRest6.png)
+![figura](img/WSRest6.png)
 
  
 
@@ -290,7 +290,7 @@ L'accesso web al web service non è altro che un'applicazione client per il serv
 
 
 
-![figura](WSRest7.png)
+![figura](img/WSRest7.png)
 
  
 
@@ -323,7 +323,7 @@ Molti altri servizi web sono esposti all'esterno, ma utilizzabili **solo previa 
 
 
 
-![figura](WSRest8.png)
+![figura](img/WSRest8.png)
 
  
 
@@ -355,7 +355,7 @@ L'utente finale, in questo caso, non percepisce sensibili differenze, ma le poss
 
 
 
-![figura](WSRest9.png)
+![figura](img/WSRest9.png)
 
  
 

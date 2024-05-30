@@ -930,9 +930,11 @@ Esistono anche vari framework che incorporano librerie per la realizzazione semp
 
 Essendo i servizi web RESTful basati sugli standard web e su codifiche semplici delle risorse, realizzare un client è molto facile:  
 
-- In JAVA, si possono usare le classi del package **java.net**, ma è consigliabile (soprattutto per gestire più facilmente i metodi e gli header) usare librerie avanzate come l'  **Apache HTTP Client** (http://hc.apache.org/httpcomponents-client-ga). Inoltre, per gestire la codifica e la decodifica JSON, è molto utile      **Google GSON** (https://github.com/google/gson).  
+- In Java, si possono usare le classi del package **java.net**, ma è consigliabile (soprattutto per gestire più facilmente i metodi e gli header) usare librerie avanzate come l'  **Apache HTTP Client** (http://hc.apache.org/httpcomponents-client-ga). Inoltre, per gestire la codifica e la decodifica JSON, è molto utile  **Google GSON** (https://github.com/google/gson).  
 
-- In PHP si possono usare le estensioni built-in per le connessioni HTTP e la codifica JSON, oppure poggiarsi a utili librerie di terze parti come   **HTTPFUL** (http://phphttpclient.com). 
+- In PHP si possono usare le estensioni built-in per le connessioni HTTP e la codifica JSON, oppure poggiarsi a utili librerie di terze parti come   **HTTPFUL** (https://github.com/nategood/httpful).  
+
+- In Javascript è possibile usare *Web API* di base come la **XMLHttpRequest** (https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest) o  più moderne come le **Fetch API** (https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) o ancora basarsi sugli helper AJAX di librerie come JQuery (https://api.jquery.com/Jquery.ajax/). Infine, i framework per applicazioni web client side fanno solitamente largo uso di chiamate RESTful. 
 
 <!------------------- END SLIDE 026 it -------------------------->
 

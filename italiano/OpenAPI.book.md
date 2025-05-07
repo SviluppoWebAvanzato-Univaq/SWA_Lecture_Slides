@@ -278,7 +278,7 @@ servers:
      default: dellapenna 
      description: host di produzione    
     port:  
-     default:"443" 
+     default: "443" 
      enum:  
       - "443" 
       - "8443" 
